@@ -1,0 +1,12 @@
+C:\Users\carol\Documents\GitHub\aplicando-testes\DotNet5-xUnit-main\Temperatura\bin\Debug\net5.0\Temperatura.deps.json
+C:\Users\carol\Documents\GitHub\aplicando-testes\DotNet5-xUnit-main\Temperatura\bin\Debug\net5.0\Temperatura.dll
+C:\Users\carol\Documents\GitHub\aplicando-testes\DotNet5-xUnit-main\Temperatura\bin\Debug\net5.0\Temperatura.pdb
+C:\Users\carol\Documents\GitHub\aplicando-testes\DotNet5-xUnit-main\Temperatura\obj\Debug\net5.0\Temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carol\Documents\GitHub\aplicando-testes\DotNet5-xUnit-main\Temperatura\obj\Debug\net5.0\Temperatura.AssemblyInfoInputs.cache
+C:\Users\carol\Documents\GitHub\aplicando-testes\DotNet5-xUnit-main\Temperatura\obj\Debug\net5.0\Temperatura.AssemblyInfo.cs
+C:\Users\carol\Documents\GitHub\aplicando-testes\DotNet5-xUnit-main\Temperatura\obj\Debug\net5.0\Temperatura.csproj.CoreCompileInputs.cache
+C:\Users\carol\Documents\GitHub\aplicando-testes\DotNet5-xUnit-main\Temperatura\obj\Debug\net5.0\Temperatura.sourcelink.json
+C:\Users\carol\Documents\GitHub\aplicando-testes\DotNet5-xUnit-main\Temperatura\obj\Debug\net5.0\Temperatura.dll
+C:\Users\carol\Documents\GitHub\aplicando-testes\DotNet5-xUnit-main\Temperatura\obj\Debug\net5.0\refint\Temperatura.dll
+C:\Users\carol\Documents\GitHub\aplicando-testes\DotNet5-xUnit-main\Temperatura\obj\Debug\net5.0\Temperatura.pdb
+C:\Users\carol\Documents\GitHub\aplicando-testes\DotNet5-xUnit-main\Temperatura\obj\Debug\net5.0\ref\Temperatura.dll
